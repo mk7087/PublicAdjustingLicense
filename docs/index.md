@@ -10,7 +10,7 @@ Public Adjusting License
 Copyright (c) <Year> <Copyright holder> All Rights Reserved.
 
 Prerequisite clause
-  Use is execution, reproduction, distribution and modification
+  Use is execution, reproduction, distribution, modification and commercial use.
   We is copyright holders and collaborators
   A user is a person who uses these or derivatives them
   The other person is not we and you
