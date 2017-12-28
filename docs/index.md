@@ -1,5 +1,5 @@
 ## PublicAdjustingLicense Documents
-Unlike MIT licenses that have not been changed or GPL licenses managed by specific organizations, this LICENSE is a License of managing publicly.
+Unlike MIT licenses that have not been changed or GPL licenses managed by specific organizations, this LICENSE is a License of managing publicly.  
 Status quo is equivalent to MIT, but let's improvement in everyone!
 ### How to use
 Write it as `These are provided in PAL (https://mk7087.github.io/PublicAdjustingLicense/)`
